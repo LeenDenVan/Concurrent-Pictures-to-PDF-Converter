@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPdfTransform", "MultiPdfTransform\MultiPdfTransform.csproj", "{4326E4F2-225F-48B0-859F-EB29B5E0825B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4326E4F2-225F-48B0-859F-EB29B5E0825B}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{4326E4F2-225F-48B0-859F-EB29B5E0825B}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{4326E4F2-225F-48B0-859F-EB29B5E0825B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4326E4F2-225F-48B0-859F-EB29B5E0825B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BAA1A9B-FE3C-4EC2-8BE9-3388675BA98F}
+	EndGlobalSection
+EndGlobal
